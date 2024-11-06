@@ -1,0 +1,11 @@
+.CodeMirror { height: auto; border: 1px solid #ddd; }
+
+.cm-mnemonic { color: #0000FF !important; font-weight: bold; }
+
+.cm-register { color: #FF00FF!important; font-weight: bold; }
+
+.cm-number { color: #ffad66!important; }
+
+.cm-comment { color: #6A9955!important; font-style: italic; }
+
+.cm-re { color: red!important; font-style: italic; }
