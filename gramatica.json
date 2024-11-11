@@ -1,0 +1,9 @@
+{
+    "regla1": [
+        [ { "referencia": true, "valor": "regla2" }, { "referencia": false, "valor": "{" }, { "referencia": false, "valor": "}" } ],
+        [  ]
+    ],
+    "regla2": [
+        []
+    ]
+}
